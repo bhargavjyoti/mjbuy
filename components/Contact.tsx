@@ -293,7 +293,7 @@ const Contact = () => {
                       Phone Number
                     </label>
                     {/* Country code + phone input */}
-                    <div className="flex gap-2">
+                    <div className="flex flex-wrap gap-2">
                       <select
                         name="country_code"
                         value={countryCode}
