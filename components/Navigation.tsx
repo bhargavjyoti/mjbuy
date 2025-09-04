@@ -48,7 +48,7 @@ const Navigation = () => {
             </div>
 
             {/* Theme Toggle & CTA Button */}
-            <div className="flex items-center gap-4 flex-shrink-0">
+            <div className="md:flex items-center gap-4 flex-shrink-0 hidden">
               <ThemeToggle />
               {/* Use anchor link to ensure it scrolls to the contact section on the homepage */}
               <Link 
