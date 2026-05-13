@@ -1,6 +1,6 @@
-# ReNest - Premium Real Estate Renovation Website
+# MJ Buy Houses - Premium Real Estate Renovation Website
 
-A stunning, modern website for ReNest, a premium real estate renovation business. Built with Next.js 14, Tailwind CSS, Framer Motion, and GSAP for incredible animations and user experience.
+A stunning, modern website for a premium real estate renovation business. Built with Next.js 14, Tailwind CSS, Framer Motion, and GSAP for incredible animations and user experience.
 
 ## 🚀 Features
 
